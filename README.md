@@ -50,14 +50,6 @@ Ensure you have the following installed:
 
    This will start the Streamlit server and open the application in your default web browser.
 
-## Project Structure
-
-- `app.py`: The main Streamlit application file.
-- `requirements.txt`: Lists the Python packages required for the project.
-- `data/`: (If applicable) Directory for storing data files.
-- `models/`: (If applicable) Directory for storing trained machine learning models.
-- `notebooks/`: (If applicable) Jupyter notebooks for experimentation and analysis.
-
 ## Usage
 
 - Open the application by running `streamlit run app.py`.
